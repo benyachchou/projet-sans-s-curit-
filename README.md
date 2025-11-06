@@ -13,7 +13,7 @@ Secure Node.js/Express API with:
    npm install
    ```
 
-2. Configure environment:
+2. Configure environament:
    - Create `.env` with:
      - `JWT_SECRET=<your-secret>`
      - Optional: `JWT_EXPIRES_IN=900` (seconds)
